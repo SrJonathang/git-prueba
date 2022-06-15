@@ -70,3 +70,11 @@ Entonces , es un repositorio de git por proyecto. Una carpeta o directorio.
     git config --global -l # Salgo con "Q" del comando (quit)
 
     git config --global --get-regexp user 
+
+## VEr la diferencia entre lo que tengo WD y el REPO LOCAL
+
+    git diff clase-01/README.md
+
+## Para ignorar un archivo en particular
+
+    Creo el archivo ".gitignore" Puede estar en la Raiz.
