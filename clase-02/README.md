@@ -2,4 +2,11 @@
 
 hhtps://github.com/abhisheknaiidu/awesome-github-profeile-readme
 
-## Repaso
+## Agregar remoto en repositorio local
+
+    git remote add origin <URL>
+
+## Verificar que este copnfigurado el remoto
+
+    git remote
+    git remote -v
