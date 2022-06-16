@@ -10,3 +10,14 @@ hhtps://github.com/abhisheknaiidu/awesome-github-profeile-readme
 
     git remote
     git remote -v
+
+## Status de Archivos
+
+    UNTRACKED => Archivos que no se agregaron al index (Staging Area) y por consecuencia no se les hara seguimientos
+
+    STAGED=> Archivos que fueron agregados al area temporal o staging area.
+
+    UNMODIFIED => Archivos que se encuentran en el repositorio y que no fueron modificadios.
+
+    MODIFIED => Archivos que se encuentran en el repositorio pero difieren con los que se encuentran actualmente en el directorio de trabajo (Working directory).
+
