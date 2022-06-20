@@ -47,3 +47,23 @@ hhtps://github.com/abhisheknaiidu/awesome-github-profeile-readme
 
     git status 
     git branch
+
+## Listar ramas remotas
+
+    git branch -r
+
+## Eliminar RAMAS
+
+ALT + 96=> backtick
+
+'''sh
+
+    git branch -d #Borrar la rama si en el algun momento fue fusionada (merge)
+'''
+
+
+'''sh
+
+    git branch -D #Borro la rama en el caso de que no me deje porque no fue fusionada o "mergeada".
+
+'''
