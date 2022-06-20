@@ -77,3 +77,10 @@ ALT + 96=> backtick
         git push origin dev
 
 
+## merge
+
+    IMPORTANTE: Tengo que estar en la rama que va a recibir los cambios. Por ej: 
+    
+    Si quiero traerme a master lo que tengo en dev tengo que estar en MASTER.
+        
+        git merge dev
