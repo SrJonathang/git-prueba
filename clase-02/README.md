@@ -67,3 +67,14 @@ ALT + 96=> backtick
     git branch -D #Borro la rama en el caso de que no me deje porque no fue fusionada o "mergeada".
 
 '''
+
+## Subir rama al remoto
+
+        git push origin <nombre.rama>
+
+    Ejemplo: 
+
+        git push origin dev
+
+
+
