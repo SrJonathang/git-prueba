@@ -21,7 +21,10 @@ hhtps://github.com/abhisheknaiidu/awesome-github-profeile-readme
 
     MODIFIED => Archivos que se encuentran en el repositorio pero difieren con los que se encuentran actualmente en el directorio de trabajo (Working directory).
 
-# Agrego otra cosa
 
+![status_archivos](img/3rFpi.png)
 
-## Otra cosa mas
+# Git amend
+ Agregar algo que me olvide en el ultimo commit
+    git add . o <archivo>
+    git commit --amend
