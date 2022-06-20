@@ -28,3 +28,22 @@ hhtps://github.com/abhisheknaiidu/awesome-github-profeile-readme
  Agregar algo que me olvide en el ultimo commit
     git add . o <archivo>
     git commit --amend
+
+# Trabajar con RAMAS
+
+## Crear una rama
+
+    git branch <nombre>
+
+## Mirar las ramas que tengo en el repo
+
+    git branch
+
+## Como se qen que rama estoy?
+
+    En las consolas tipo linux/unix, voy a tenerlo al costado del path (dev,master...)
+
+## Otra forma es con git status
+
+    git status 
+    git branch
