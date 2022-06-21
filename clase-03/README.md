@@ -18,11 +18,12 @@
 ###************
 ## TIPOS DE MERGE
 ###************
-    Fast-Forward: Fusion automatica de las ramas.
+    
+    *Fast-Forward: Fusion automatica de las ramas.
 
-    RECURSIVA: Union automatica (No hay colisiones de cambios)
+    *RECURSIVA: Union automatica (No hay colisiones de cambios)
 
-    MANUAL: (Conflictos - Colisiones - Vamos a tener que elegir nosotros con que nos quedamos)
+    *MANUAL: (Conflictos - Colisiones - Vamos a tener que elegir nosotros con que nos quedamos)
 
 ## Detener el merge
 
