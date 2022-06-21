@@ -1,6 +1,6 @@
-# Clase 03
+# Clase 03 - 15-06-2022
 
-## Repaso Ramas
+## REPASO RAMAS Y MERGE
 
 ### Crear una rama
 
@@ -24,4 +24,10 @@
 
     MANUAL: (Conflictos - Colisiones - Vamos a tener que elegir nosotros con que nos quedamos)
 
-    
+## Para comparar dos ramas
+
+    git diff <rama-1> <rama-2>
+
+## Si quiero crear una rama y moverme a esa rama 
+
+    git checkout -b <nombre-rama>
