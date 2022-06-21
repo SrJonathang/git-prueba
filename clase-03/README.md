@@ -24,4 +24,11 @@
 
     MANUAL: (Conflictos - Colisiones - Vamos a tener que elegir nosotros con que nos quedamos)
 
+## Detener el merge
+
+    git merge --abort
     
+
+
+
+
