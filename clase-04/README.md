@@ -31,3 +31,12 @@ Si no le coloco el HAS me lo va a poner en el ultimo commit de la rama actual.
 
     git tag -n
 
+### Para subir todos los tags
+**IMPORTANTE¨**: No recomendad salvo que sea lo que estoy haciendo
+
+    git tag --tags
+
+## Subir un tag en particular
+
+    git push origin <tag_name>
+
